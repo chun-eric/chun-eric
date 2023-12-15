@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-  - [Nessus Vulnerability Scanner](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Microsoft Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Microsoft Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Nessus Vulnerability Scanner with Remediation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Microsoft Sentinel SIEM with AI ChatGPT Integration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Cloud Honeypot](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Certifications</h2>
 
