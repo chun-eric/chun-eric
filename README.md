@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric)
-  - [Microsoft Sentinel SIEM with AI ChatGPT Integration](https://github.com/chun-eric)
+  - [Microsoft Sentinel SIEM with ChatGPT AI Integration](https://github.com/chun-eric)
   - [Home Lab](https://github.com/chun-eric)
   - [Microsoft Sentinel Azure Cloud Honeypot](https://github.com/chun-eric)
-  - 
+  - [Qualys Vulnerability Scanner in Microsoft Azure Cloud](https://github.com/chun-eric)
 
 <h2>👨‍💻 Certifications</h2>
 
