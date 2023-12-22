@@ -10,7 +10,8 @@
 
 <h2>👨‍💻 Certifications</h2>
 
-  - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/24PFFD9EF64K)
+  - [Risk Management Framework for Systems and Organizations Introductory Course Version 2.0](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 YouTube Videos</h2>
 
@@ -26,7 +27,7 @@
 
 
 [youtube]: https://www.youtube.com/c/whatthehack
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/eric-chun-b536711a/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
