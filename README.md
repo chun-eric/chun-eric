@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
-  - [The Blue Team Red Team Microsoft Sentinel SIEM lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
   - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
   - [Microsoft Sentinel Honeypot Attack in Azure](https://github.com/chun-eric/sentinel-honeypot1)
  
