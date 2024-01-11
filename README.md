@@ -11,11 +11,12 @@
 <h2>👨‍💻 Certifications</h2>
 
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/24PFFD9EF64K)
-  - [Risk Management Framework for Systems and Organizations Introductory Course Version 2.0](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Risk Management Framework for Systems and Organizations Introductory Course Version 2.0]
+  - 
 
 <h2>📺 YouTube Videos</h2>
 
-- [Email Phishing Security Awareness Training](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Email Phishing Security Awareness Training]()
 
 
 
