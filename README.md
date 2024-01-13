@@ -11,8 +11,8 @@
 <h2>👨‍💻 Certifications</h2>
 
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/24PFFD9EF64K)
-  - [Risk Management Framework for Systems and Organizations Introductory Course Version 2.0]
-  - 
+  - NIST 800-37 Risk Management Framework for Systems and Organizations Introductory Course Version 2.0
+  - Qualys Vulnerability Management Detection and Response
 
 <h2>📺 YouTube Videos</h2>
 
