@@ -13,6 +13,7 @@
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/24PFFD9EF64K)
   - NIST 800-37 Risk Management Framework for Systems and Organizations Introductory Course Version 2.0
   - Qualys Vulnerability Management Detection and Response
+  - Microsof Azure Fundamentals AZ-900
 
 <h2>📺 YouTube Videos</h2>
 
