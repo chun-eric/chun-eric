@@ -1,6 +1,14 @@
 <h1>Hi, I'm Eric! <br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>👨‍💻 Cybersecurity Technial Projects</h2>
+
+  - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
+  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
+  - [Microsoft Sentinel Honeypot Attack in Azure](https://github.com/chun-eric/sentinel-honeypot1)
+
+
+<h2>👨‍💻 Cybersecurity Governance, Risk and Compliance Projects</h2>
 
   - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
   - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
