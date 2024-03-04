@@ -16,6 +16,15 @@
   - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
   - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
   - [Microsoft Sentinel Honeypot Attack in Azure](https://github.com/chun-eric/sentinel-honeypot1)
+
+
+<br/>
+<h2>👨‍💻 Blockchain Projects</h2>
+
+  - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
+  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
+  - [Microsoft Sentinel Honeypot Attack in Azure](https://github.com/chun-eric/sentinel-honeypot1)
  
 <br/>
 <h2>👨‍💻 Certifications</h2>
