@@ -19,7 +19,7 @@
 
 
 <br/>
-<h2>👨‍💻 Blockchain Projects</h2>
+<h2>👨‍💻 Blockchain Smart Contract Projects</h2>
 
   - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
   - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
