@@ -21,8 +21,8 @@
 <br/>
 <h2>👨‍💻 Blockchain Smart Contract Projects</h2>
 
-  - [TMy First Smart Contract](https://github.com/chun-eric/nessus-scanner)
-  - [A Crowdfunding Smart Contract](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [My First Smart Contract](https://github.com/chun-eric/first-smart-contract)
+  - [A Crowdfunding Smart Contract](https://github.com/chun-eric/crowdfunding)
 
  
 <br/>
