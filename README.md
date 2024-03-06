@@ -12,7 +12,7 @@
 <br/>
 <h2>👨‍💻 Cybersecurity Governance, Risk and Compliance Projects</h2>
 
-  - [Auditing a Company with NIST Special Publication 800-53](https://github.com/chun-eric/nessus-scanner)
+  - [Auditing a Company with NIST Special Publication 800-53] (https://github.com:chun-eric/auditlab.git)
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
   - [Social Engineering - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
   - [Risk Assessment](https://github.com/chun-eric/active-directory-homelab)
