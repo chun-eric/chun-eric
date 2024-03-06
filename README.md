@@ -13,9 +13,9 @@
 <h2>👨‍💻 Cybersecurity Governance, Risk and Compliance Projects</h2>
 
   - [Auditing a Company with NIST Special Publication 800-53](https://github.com/chun-eric/nessus-scanner)
-  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
-  - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
-  - [Microsoft Sentinel Honeypot Attack in Azure](https://github.com/chun-eric/sentinel-honeypot1)
+  - [Security Awareness Training - Email Phishing](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Risk Assessment](https://github.com/chun-eric/active-directory-homelab)
+  - [Information Security Policy](https://github.com/chun-eric/sentinel-honeypot1)
 
 
 <br/>
