@@ -13,9 +13,16 @@
 <h2>👨‍💻 Cybersecurity Governance, Risk and Compliance Projects</h2>
 
   - [Auditing a Company with NIST Special Publication 800-53](https://github.com/chun-eric/nessus-scanner)
-  - [Security Awareness Training - Email Phishing](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Social Engineering - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
   - [Risk Assessment](https://github.com/chun-eric/active-directory-homelab)
-  - [Information Security Policy](https://github.com/chun-eric/sentinel-honeypot1)
+  - [Asset Management](https://github.com/chun-eric/active-directory-homelab)
+  - [Data Loss Prevention](https://github.com/chun-eric/active-directory-homelab)
+  - [Third Part Risk Management](https://github.com/chun-eric/active-directory-homelab)
+  - [Incident Response Plan](https://github.com/chun-eric/active-directory-homelab)
+  - [Business Continuity Plan](https://github.com/chun-eric/active-directory-homelab)
+  - [Information Security Program using the NIST Cybersecurity Framework](https://github.com/chun-eric/sentinel-honeypot1)
+  - [Cybersecurity Program using the NIST Cybersecurity Framework](https://github.com/chun-eric/sentinel-honeypot1)
 
 
 <br/>
