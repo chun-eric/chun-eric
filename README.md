@@ -43,7 +43,8 @@
 <br/>
 <h2>📺 YouTube Videos</h2>
 
-- [Email Phishing Security Awareness Training]()
+  - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Social Engineering - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
 
 <br/>
 <h2> 🤳 Connect with me:</h2>
