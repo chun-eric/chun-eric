@@ -15,7 +15,7 @@
 
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
   - [Social Engineering - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
-  - [Risk Assessment](https://github.com/chun-eric/active-directory-homelab)
+  - [Cybersecurity Risk Assessment](https://github.com/chun-eric/active-directory-homelab)
   - [Compliance Audit with NIST Special Publication 800-53](https://github.com:chun-eric/auditlab.git)
   - [Information Security Program using the NIST Cybersecurity Framework](https://github.com/chun-eric/sentinel-honeypot1)
   - [Cybersecurity Program using the NIST Cybersecurity Framework](https://github.com/chun-eric/sentinel-honeypot1)
