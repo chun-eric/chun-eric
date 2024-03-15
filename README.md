@@ -25,7 +25,7 @@
 <h2>👨‍💻 Blockchain Smart Contract Projects</h2>
 
   - [My First Smart Contract](https://github.com/chun-eric/first-smart-contract)
-  - [A Crowdfunding Smart Contract with Foundry]([https://github.com/chun-eric/crowdfunding](https://github.com/chun-eric/foundry_crowdfunding))
+  - [A Crowdfunding Smart Contract with Foundry](https://github.com/chun-eric/foundry_crowdfunding)
 
  
 <br/>
