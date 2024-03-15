@@ -25,7 +25,7 @@
 <h2>👨‍💻 Blockchain Smart Contract Projects</h2>
 
   - [My First Smart Contract](https://github.com/chun-eric/first-smart-contract)
-  - [A Crowdfunding Smart Contract](https://github.com/chun-eric/crowdfunding)
+  - [A Crowdfunding Smart Contract with Foundry]([https://github.com/chun-eric/crowdfunding](https://github.com/chun-eric/foundry_crowdfunding))
 
  
 <br/>
@@ -34,7 +34,7 @@
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/24PFFD9EF64K)
   - NIST 800-37 Risk Management Framework for Systems and Organizations Introductory Course Version 2.0
   - Qualys Vulnerability Management Detection and Response
-  - Microsof Azure Fundamentals AZ-900
+  - Microsoft Azure Fundamentals AZ-900
 
 <br/>
 <h2>📺 YouTube Videos</h2>
