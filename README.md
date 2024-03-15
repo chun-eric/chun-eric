@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">👋
+<h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
   Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
 
