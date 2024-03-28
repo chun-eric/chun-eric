@@ -14,7 +14,7 @@
 
 
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
-  - [Misconfigured S3 Buckets - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Misconfigured S3 Buckets - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt](https://github.com/chun-eric/misconfigureds3)
   - [Cybersecurity Risk Assessment](https://github.com/chun-eric/active-directory-homelab)
   - [Compliance Audit Lab with NIST SP 800-171 using SP 800-53 Media Protection Controls](https://github.com/chun-eric/grcauditlab/blob/main/README.md)
   - [Information Security Program using the NIST Cybersecurity Framework](https://github.com/chun-eric/sentinel-honeypot1)
