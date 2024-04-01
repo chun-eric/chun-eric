@@ -13,7 +13,7 @@
 <h2>👨‍💻 Cybersecurity Governance, Risk and Compliance Projects</h2>
 
 
-  - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Email Phishing - Security Awareness Training]()
   - [Misconfigured S3 Buckets - Security Awareness Training](https://github.com/chun-eric/misconfigureds3)
   - [Cybersecurity Risk Assessment](https://github.com/chun-eric/active-directory-homelab)
   - [Compliance Audit Lab with NIST SP 800-171 using SP 800-53 Media Protection Controls](https://github.com/chun-eric/grcauditlab/blob/main/README.md)
@@ -25,7 +25,7 @@
 <h2>👨‍💻 Blockchain Smart Contract Projects</h2>
 
   - [My First Smart Contract](https://github.com/chun-eric/first-smart-contract)
-  - [A Crowdfunding Smart Contract with Foundry](https://github.com/chun-eric/foundry_crowdfunding)
+  - [A Crowdfunding Smart Contract with Foundry -- Ongoing](https://github.com/chun-eric/foundry_crowdfunding)
 
  
 <br/>
@@ -50,7 +50,7 @@
 
 
 
-[youtube]: https://www.youtube.com/c/whatthehack
+[youtube]: https://www.youtube.com/c/whatthehackdude
 [linkedin]: https://linkedin.com/in/eric-chun-b536711a/
 
 <!--
