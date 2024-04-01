@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
 
   - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
-  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem)
   - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
 
 
@@ -40,7 +40,7 @@
 <h2>📺 YouTube Videos</h2>
 
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
-  - [Social Engineering - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
+  - [Misconfigured AWS S3 Buckets - Security Awareness Training](https://github.com/chun-eric/misconfigureds3)
 
 <br/>
 <h2> 🤳 Connect with me:</h2>
