@@ -40,7 +40,7 @@
 <h2>📺 YouTube Videos</h2>
 
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/sentinel-siem-chatgpt)
-  - [Misconfigured AWS S3 Buckets - Security Awareness Training](https://github.com/chun-eric/misconfigureds3)
+  - [Misconfigured AWS S3 Buckets - Security Awareness Training](https://youtu.be/MFxIpmqld-w)
 
 <br/>
 <h2> 🤳 Connect with me:</h2>
