@@ -15,9 +15,9 @@
 
   - [Email Phishing - Security Awareness Training]()
   - [Misconfigured S3 Buckets - Security Awareness Training](https://github.com/chun-eric/misconfigureds3)
-  - [Falcone Systems Cybersecurity Risk Assessment](https://github.com/chun-eric/grcrisklab/blob/main/README.md)
   - [Falcone Systems Compliance Audit Lab with NIST SP 800-171 using SP 800-53 Media Protection Controls](https://github.com/chun-eric/grcauditlab/blob/main/README.md)
-  - [Information Security Policy Lab for Quantum Financials](https://github.com/chun-eric/sentinel-honeypot1)
+  - [Falcone Systems Cybersecurity Risk Assessment Lab](https://github.com/chun-eric/grcrisklab/blob/main/README.md)
+  - [Quantum Financials Information Security Policy Program Lab ](https://github.com/chun-eric/sentinel-honeypot1)
   
 
 
