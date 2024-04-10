@@ -10,7 +10,7 @@
 
 
 <br/>
-<h2>👨‍💻 Cybersecurity Governance, Risk and Compliance Projects</h2>
+<h2>🔱 Cybersecurity Governance, Risk and Compliance Projects</h2>
 
 
   - [Email Phishing - Security Awareness Training]()
@@ -21,21 +21,21 @@
 
   
 <br/>
-<h2>👨‍💻 Python Scripts</h2>
+<h2>💻 Python Scripts</h2>
 
   - [Random Password Generator - script that generates strong passwords](https://github.com/chun-eric/keylogger)
   - [Keylogger - script that prints and outputs your keystrokes](https://github.com/chun-eric/key-logger)
 
 
 <br/>
-<h2>👨‍💻 Blockchain Smart Contract Projects</h2>
+<h2>⛓️ Blockchain Smart Contract Projects</h2>
 
   - [My First Smart Contract](https://github.com/chun-eric/first-smart-contract)
   - [A Crowdfunding Smart Contract with Foundry -- Ongoing](https://github.com/chun-eric/foundry_crowdfunding)
 
  
 <br/>
-<h2>👨‍💻 Certifications</h2>
+<h2>📜 Certifications</h2>
 
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/24PFFD9EF64K)
   - NIST 800-37 Risk Management Framework for Systems and Organizations Introductory Course Version 2.0
@@ -59,17 +59,20 @@
 [youtube]: https://www.youtube.com/c/whatthehackdude
 [linkedin]: https://linkedin.com/in/eric-chun-b536711a/
 
+- 👯 I’m looking to collaborate on Blockchain GRC projects.
+- 🌱 I’m currently learning blockchain, smart contract risks pertaining to cybersecurity and enterprise business risk.
+
+  
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
