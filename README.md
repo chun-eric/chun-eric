@@ -59,6 +59,7 @@
 [youtube]: https://www.youtube.com/c/whatthehackdude
 [linkedin]: https://linkedin.com/in/eric-chun-b536711a/
 
+<br/>
 - 👯 I’m looking to collaborate on Blockchain GRC projects.
 - 🌱 I’m currently learning blockchain, smart contract risks pertaining to cybersecurity and enterprise business risk.
 
