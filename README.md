@@ -18,12 +18,14 @@
   - [Falcone Systems Compliance Audit Lab with NIST SP 800-171 using SP 800-53 Media Protection Controls](https://github.com/chun-eric/grcauditlab/blob/main/README.md)
   - [Falcone Systems Cybersecurity Risk Assessment Lab](https://github.com/chun-eric/grcrisklab/blob/main/README.md)
   - [Quantum Financials Information Security Policy Program Lab -- Ongoing ](https://github.com/chun-eric/infosecprogram)
-  
 
-<h2>👨‍💻 Cybersecurity Python Scripts</h2>
-  - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
-  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem)
-  - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
+  
+<br/>
+<h2>👨‍💻 Python Scripts</h2>
+
+  - [Random Password Generator - script that generates strong passwords](https://github.com/chun-eric/keylogger)
+  - [Keylogger - script that prints and outputs your keystrokes](https://github.com/chun-eric/key-logger)
+
 
 <br/>
 <h2>👨‍💻 Blockchain Smart Contract Projects</h2>
