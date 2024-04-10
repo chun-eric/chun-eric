@@ -20,6 +20,10 @@
   - [Quantum Financials Information Security Policy Program Lab -- Ongoing ](https://github.com/chun-eric/infosecprogram)
   
 
+<h2>👨‍💻 Cybersecurity Python Scripts</h2>
+  - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
+  - [The Blue Team Red Team Microsoft Sentinel SIEM Lab](https://github.com/chun-eric/sentinel-siem)
+  - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
 
 <br/>
 <h2>👨‍💻 Blockchain Smart Contract Projects</h2>
