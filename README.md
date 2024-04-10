@@ -24,7 +24,7 @@
 <h2>💻 Python Scripts</h2>
 
   - [Random Password Generator - a script that generates random strong passwords](https://github.com/chun-eric/keylogger)
-  - [Keylogger - a script that prints and outputs your keystrokes (educational only)](https://github.com/chun-eric/key-logger)
+  - [Keylogger - a script that logs and outputs your keystrokes (educational only)](https://github.com/chun-eric/key-logger)
 
 
 <br/>
