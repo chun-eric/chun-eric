@@ -25,6 +25,7 @@
 
   - [Random Password Generator - a script that generates random strong passwords](https://github.com/chun-eric/keylogger)
   - [Keylogger - a script that logs and outputs your keystrokes (educational only)](https://github.com/chun-eric/key-logger)
+  - [Portscanner - a script that logs and outputs your keystrokes (educational only)](https://github.com/chun-eric/portscannerbasic)
 
 
 <br/>
