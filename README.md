@@ -65,7 +65,7 @@
 - 👯 I’m looking to collaborate on Blockchain GRC projects.
 <br/>
 - 🌱 I’m currently learning blockchain, smart contract risks pertaining to cybersecurity and enterprise business risk.
-
+- ⚡ I really enjoy learning about technology, new technology trends and business!
   
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
