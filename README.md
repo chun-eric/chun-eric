@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
-  Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
+  Front-End Developer and Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
 
