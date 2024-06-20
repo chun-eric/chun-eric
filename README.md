@@ -6,10 +6,10 @@
 
   - [Japan Bliss - Newsletter Email](https://github.com/chun-eric/newsletter_1)
   - [8 Bits NFT - Newsletter Email](https://github.com/chun-eric/newsletter2)
-  - [8 Bits NFT - Transactional Email](https://github.com/chun-eric/active-directory-homelab)
-  - [8 Bits NFT - Transactional Email](https://github.com/chun-eric/nessus-scanner)
-  - [8 Bits NFT - Newsletter Email](https://github.com/chun-eric/sentinel-siem)
-  - [8 Bits NFT - Newsletter Email](https://github.com/chun-eric/active-directory-homelab)
+  - [Shoe Maven - Transactional Email](https://github.com/chun-eric/transactional_1)
+  - [Streamify - Transactional Email](https://github.com/chun-eric/transactional_2)
+  - [Sleek Furniture - Promotional Email](https://github.com/chun-eric/promotional_1)
+  - [Chic Estate - Promotional Email](https://github.com/chun-eric/promotional_2)
 
   <br/>
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
