@@ -4,12 +4,12 @@
   
 <h2>👨‍💻 HTML Email Development Projects</h2>
 
-  - [Japan Bliss - Newsletter Email](https://github.com/chun-eric/newsletter_1)
-  - [8 Bits NFT - Newsletter Email](https://github.com/chun-eric/newsletter2)
-  - [Shoe Maven - Transactional Email](https://github.com/chun-eric/transactional_1)
-  - [Streamify - Transactional Email](https://github.com/chun-eric/transactional_2)
-  - [Sleek Furniture - Promotional Email](https://github.com/chun-eric/promotional_1)
-  - [Chic Estate - Promotional Email](https://github.com/chun-eric/promotional_2)
+  - [Japan Bliss - a newsletter Email](https://github.com/chun-eric/newsletter_1)
+  - [8 Bits NFT - a newsletter Email](https://github.com/chun-eric/newsletter2)
+  - [Shoe Maven - a transactional Email](https://github.com/chun-eric/transactional_1)
+  - [Streamify - a transactional Email](https://github.com/chun-eric/transactional_2)
+  - [Sleek Furniture - a promotional Email](https://github.com/chun-eric/promotional_1)
+  - [Chic Estate - a promotional Email](https://github.com/chun-eric/promotional_2)
 
   <br/>
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
