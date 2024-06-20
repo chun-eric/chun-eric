@@ -1,7 +1,17 @@
 <h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
   Front-End Developer and Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
+  
+<h2>👨‍💻 HTML Email Development Projects</h2>
 
+  - [Japan Bliss - Newsletter Email](https://github.com/chun-eric/newsletter_1)
+  - [8 Bits NFT - Newsletter Email](https://github.com/chun-eric/newsletter2)
+  - [8 Bits NFT - Transactional Email](https://github.com/chun-eric/active-directory-homelab)
+  - [8 Bits NFT - Transactional Email](https://github.com/chun-eric/nessus-scanner)
+  - [8 Bits NFT - Newsletter Email](https://github.com/chun-eric/sentinel-siem)
+  - [8 Bits NFT - Newsletter Email](https://github.com/chun-eric/active-directory-homelab)
+
+  <br/>
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
 
   - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
