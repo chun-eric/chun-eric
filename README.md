@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
-  Front-End Developer, Email Developer, Cybersecurity Enthusiast and</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
+  Front-End and Email Developer, Cybersecurity Enthusiast and</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
   
 <h2>👨‍💻 HTML Email Development Projects</h2>
 
