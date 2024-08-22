@@ -15,8 +15,8 @@
 
 <h2>👨‍💻 FrontEnd Development Projects</h2>
 
-  - [Personal Portfolio](https://github.com/chun-eric/reactportfoliowebsite)
-  - [La Trattoria - Fine Dining Restaurant Website](https://github.com/chun-eric/latrattoria)
+  - [React Personal Portfolio](https://github.com/chun-eric/reactportfoliowebsite)
+  - [La Trattoria - Restaurant Website with No Frameworks](https://github.com/chun-eric/latrattoria)
 
   <br/>
   
