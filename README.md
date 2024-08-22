@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
-  Front-End and Email Developer, Cybersecurity Enthusiast and</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
+  Front-End and Email Developer, Web Producer, Cybersecurity Enthusiast and</a>, <a href="https://www.youtube.com/c/WhatTheHackdude">YouTuber</a></h1>
   
 <h2>👨‍💻 HTML Email Development Projects</h2>
 
@@ -15,7 +15,7 @@
 
 <h2>👨‍💻 FrontEnd Development Projects</h2>
   - [Personal Portfolio](https://github.com/chun-eric/reactportfoliowebsite)
-  - [La Trattoria - Fine Dining Restaurant Website](https://github.com/chun-eric/newsletter2)
+  - [La Trattoria - Fine Dining Restaurant Website](https://github.com/chun-eric/latrattoria)
 
   <br/>
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
