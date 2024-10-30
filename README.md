@@ -13,7 +13,7 @@
 
   <br/>
 
-<h2>👨‍💻 Landing Pages Projects</h2>
+<h2>👨‍💻 Landing Page Projects</h2>
 
 <br/>
 
