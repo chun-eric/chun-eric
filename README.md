@@ -13,6 +13,10 @@
 
   <br/>
 
+<h2>👨‍💻 Landing Pages Projects</h2>
+
+<br/>
+
 <h2>👨‍💻 FrontEnd Development Projects</h2>
 
   - [React Personal Portfolio](https://github.com/chun-eric/reactportfoliowebsite)
