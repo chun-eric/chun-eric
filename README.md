@@ -14,6 +14,7 @@
   <br/>
 
 <h2>👨‍💻 Landing Page Projects</h2>
+  - [Osaka Hometown - a landing page of my hometown](https://github.com/chun-eric/newsletter_1)
 
 <br/>
 
