@@ -88,11 +88,11 @@
 
 <br/>
 <br/>
-- 👯 I’m looking to collaborate on Blockchain GRC projects.
+- 👯 I’m looking to collaborate on beginner friendly open source frontend development projects.
 <br/>
-- 🌱 I’m currently learning blockchain, smart contract risks pertaining to cybersecurity and enterprise business risk.
+- 🌱 I’m currently taking a deep dive and learning more frontend development and design.
 <br/>
-- ⚡ I really enjoy learning about technology, new technology trends and business!
+- ⚡ I really enjoy learning about new technology trends, new skills, the crypto landscape and startups.
   
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
