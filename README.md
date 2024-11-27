@@ -24,6 +24,7 @@
 
   - [React Personal Portfolio](https://github.com/chun-eric/reactportfoliowebsite)
   - [La Trattoria - Restaurant Website with No Frameworks](https://github.com/chun-eric/latrattoria)
+  - [OkinawaMee - A React Tailwind E-Commerce Website (In Development](https://github.com/chun-eric/okinawamee))
 
   <br/>
   
