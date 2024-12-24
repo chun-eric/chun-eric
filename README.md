@@ -22,7 +22,7 @@
 
 <h2>👨‍💻 FrontEnd Development Projects</h2>
 
-  - [React Personal Portfolio](https://github.com/chun-eric/reactportfoliowebsite)
+  - [Personal Portfolio - React](https://github.com/chun-eric/reactportfoliowebsite)
   - [La Trattoria - Restaurant Website with No Frameworks](https://github.com/chun-eric/latrattoria)
   - [OkinawaMee - A React Tailwind E-Commerce Website (In Development](https://github.com/chun-eric/okinawamee))
 
