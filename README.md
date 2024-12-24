@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
-  Front-End + Email Developer, Web Producer, Content Creator and Blockchain enthusiast</h1>
+  React Front-End, Email Developer + Content Producer</h1>
   
 <h2>👨‍💻 Email Development Projects</h2>
 
