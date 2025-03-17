@@ -92,7 +92,7 @@
 <br/>
 - 👯 I’m looking to collaborate on beginner friendly open source frontend development projects.
 <br/>
-- 🌱 I’m currently taking a deep dive and learning more frontend development and design.
+- 🌱 I’m currently taking a deep dive and learning more frontend development, design and governance risk and compliance within cybersecurity.
 <br/>
 - ⚡ I really enjoy learning about new technology trends, new skills, the crypto landscape and startups.
   
