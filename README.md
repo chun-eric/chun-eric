@@ -58,7 +58,7 @@
 
 
 <br/>
-<h2>⛓️ Blockchain Smart Contract Projects</h2>
+<h2>⛓️ Blockchain Development Projects</h2>
 
   - [My First Smart Contract](https://github.com/chun-eric/first-smart-contract)
 
