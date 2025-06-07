@@ -26,7 +26,7 @@
   - [La Trattoria - Restaurant Website with No Frameworks](https://github.com/chun-eric/latrattoria)
   - [Bazaar - Ecommerce React Application](https://github.com/chun-eric/bazaar_ecommerce)
   - [OkinawaMee - A Fashion E-Commerce Website (In Development)](https://github.com/chun-eric/okinawamee)
-  - [VanLife - A Van Rental E-Commerce Website (In Development)](https://github.com/chun-eric/van_life)
+  - [VanLife - A Van Rental E-Commerce Website](https://github.com/chun-eric/van_life)
   - [WhatTheHack - A News API Website (In Development)](https://github.com/chun-eric/what-the-hack-news)
 
   <br/>
