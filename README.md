@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
-  React Front-End, Email Developer + Content Producer</h1>
+  React Front-End Developer, Content Strategist , Digital Marketing, Product Development </h1>
   
 <h2>👨‍💻 Email Development Projects</h2>
 
