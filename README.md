@@ -2,7 +2,7 @@
   <br/>
  Developer, Content Strategist , Instructional Design, Product Development, Educator </h1>
   
-<h2>👨‍💻 Email Development Projects</h2>
+<h2>👨‍💻 Email Design & Development Projects</h2>
 
   - [Japan Bliss - a newsletter Email](https://github.com/chun-eric/newsletter_1)
   - [8 Bits NFT - a newsletter Email](https://github.com/chun-eric/newsletter2)
