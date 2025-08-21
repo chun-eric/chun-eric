@@ -91,9 +91,9 @@
 
 <br/>
 <br/>
-- 👯 I’m looking to collaborate on beginner friendly open source frontend development projects.
+- 👯 I’m looking to collaborate on Instructional Design, E-learning development projects that need more technical expertise.
 <br/>
-- 🌱 I’m currently taking a deep dive and learning more frontend development, design and governance risk and compliance within cybersecurity.
+- 🌱 I’m currently taking a deep dive and learning more frontend development, Instructional Design/eLearning Development, content strategy/development for government agencies and coprorations.
 <br/>
 - ⚡ I really enjoy learning about new technology trends, new skills, the crypto landscape and startups.
   
