@@ -42,7 +42,6 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 <br/>
 
   
-  
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
 
   - [Tenable Nessus Vulnerability Scanner with Remediation](https://github.com/chun-eric/nessus-scanner)
@@ -53,12 +52,10 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 <br/>
 <h2>🔱 Cybersecurity GRC and Security Awareness and Education Projects</h2>
 
-
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/emailphishing)
   - [Misconfigured S3 Buckets - Security Awareness Training](https://github.com/chun-eric/misconfigureds3)
   - [Falcone Systems Audit & Compliance Lab with NIST SP 800-171 using SP 800-53 Media Protection Controls](https://github.com/chun-eric/grcauditlab/blob/main/README.md)
   - [Falcone Systems Cybersecurity Risk Assessment Lab](https://github.com/chun-eric/grcrisklab/blob/main/README.md)
-  - [Quantum Financials Information Security Policy Lab -- Ongoing ](https://github.com/chun-eric/infosecprogram)
 
   
 <br/>
@@ -74,17 +71,12 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
   - NIST 800-37 Risk Management Framework for Systems and Organizations Introductory Course Version 2.0
   - Qualys Vulnerability Management Detection and Response
   - Microsoft Azure Fundamentals AZ-900
+  - Japanese Language Proficiency Test N2
 
 <br/>
-<h2>📺 YouTube Videos</h2>
-  - [At The Airport - ESL English](https://youtu.be/AEjrgBnae7s)
-  - [Email Phishing - Security Awareness Training](https://youtu.be/AEjrgBnae7s)
-  - [Misconfigured AWS S3 Buckets - Security Awareness Training](https://youtu.be/MFxIpmqld-w)
 
 <br/>
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Eric Chun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Eric Chun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
