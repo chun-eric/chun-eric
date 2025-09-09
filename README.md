@@ -76,11 +76,6 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 <br/>
 
 <br/>
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Eric Chun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]linkedin
-[linkedin]: https://linkedin.com/in/eric-chun-b536711a/
-
-<br/>
 <br/>
 - 👯 I’m looking to collaborate on Instructional Design, E-learning development projects that need more technical expertise.
 <br/>
