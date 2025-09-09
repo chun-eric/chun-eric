@@ -50,7 +50,7 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 
 
 <br/>
-<h2>🔱 Cybersecurity Governance, Risk and Compliance Projects</h2>
+<h2>🔱 Cybersecurity GRC and Security Awareness and Education Projects</h2>
 
 
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/emailphishing)
