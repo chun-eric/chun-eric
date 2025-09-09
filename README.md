@@ -106,7 +106,7 @@
 <br/>
 - 🌱 I’m currently taking a deep dive and learning more frontend development, Instructional Design/eLearning Development, content strategy/development for government agencies and coprorations.
 <br/>
-- ⚡ I really enjoy learning about new technology trends, new skills, the crypto landscape and startups.
+- ⚡ I really enjoy learning about new technology trends, new skills, the AI landscape and startups.
   
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
