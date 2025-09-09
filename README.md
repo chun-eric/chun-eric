@@ -94,9 +94,8 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 <br/>
 - 👯 I’m looking to collaborate on Instructional Design, E-learning development projects that need more technical expertise.
 <br/>
-- 🌱 I’m currently taking a deep dive and learning more frontend development, Instructional Design/eLearning Development, content strategy/development for government agencies and coprorations.
 <br/>
-- ⚡ I really enjoy learning about new technology trends, new skills, the AI landscape and startups.
+- ⚡ I really enjoy learning about new technology trends, new skills and the AI landscape.
   
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
