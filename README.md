@@ -30,6 +30,17 @@
   - [WhatTheHack - A News API Website (In Development)](https://github.com/chun-eric/what-the-hack-news)
 
   <br/>
+
+
+<h2>👨‍💻 Learning and Design/Development, Instructional Design, E-Learning Development</h2>
+
+  - [AUSTRAC Tranche 2 AML/CTF Implementation for Cross Sector Compliance](https://www.ecdevportfolio.com/austrac-tranche2)
+  
+
+
+<br/>
+
+  
   
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
 
