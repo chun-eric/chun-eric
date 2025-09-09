@@ -32,7 +32,7 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
   <br/>
 
 
-<h2>👨‍💻 Learning and Design/Development, Instructional Design, E-Learning Development</h2>
+<h2>👨‍💻 L&D, Instructional Design, E-Learning Development</h2>
 
   - [AUSTRAC Tranche 2 AML/CTF Implementation for Cross Sector Compliance](https://www.ecdevportfolio.com/austrac-tranche2)
   
