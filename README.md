@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! 👋<br/>
   <br/>
-Content Strategist , Learning and Development, Instructional Design, E-Learning Web Developer </h1>
+Content Strategist, L&D, Instructional Design, E-Learning Web Developer </h1>
   
 <h2>👨‍💻 Email Design & Development Projects</h2>
 
