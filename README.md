@@ -37,10 +37,7 @@ Content Strategist, L&D, Instructional Design, E-Learning Web Developer </h1>
   - [AUSTRAC Tranche 2 AML/CTF Implementation for Cross Sector Compliance](https://www.ecdevportfolio.com/austrac-tranche2)
   - [English PhraseCamp](https://www.youtube.com/englishphrasecamp)
   
-
-
 <br/>
-
   
 <h2>👨‍💻 Cybersecurity Technical Projects</h2>
 
@@ -48,10 +45,8 @@ Content Strategist, L&D, Instructional Design, E-Learning Web Developer </h1>
   - [Microsoft Sentinel SIEM Lab in Azure Cloud](https://github.com/chun-eric/sentinel-siem)
   - [Microsoft Active Directory Home Lab](https://github.com/chun-eric/active-directory-homelab)
 
-
 <br/>
 <h2>🔱 Cybersecurity GRC and Security Awareness and Education Projects</h2>
-
   - [Email Phishing - Security Awareness Training](https://github.com/chun-eric/emailphishing)
   - [Misconfigured S3 Buckets - Security Awareness Training](https://github.com/chun-eric/misconfigureds3)
   - [Falcone Systems Audit & Compliance Lab with NIST SP 800-171 using SP 800-53 Media Protection Controls](https://github.com/chun-eric/grcauditlab/blob/main/README.md)
