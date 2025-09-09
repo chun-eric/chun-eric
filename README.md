@@ -61,18 +61,9 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 
   
 <br/>
-<h2>💻 Python Scripts</h2>
-
-  - [Random Password Generator - a script that generates random strong passwords](https://github.com/chun-eric/keylogger)
-  - [Keylogger - a script that logs and outputs your keystrokes (educational only)](https://github.com/chun-eric/key-logger)
-  - [Portscanner - a script that logs and outputs your keystrokes (educational only)](https://github.com/chun-eric/portscannerbasic)
 
 
 <br/>
-<h2>⛓️ Blockchain Development Projects</h2>
-
-  - [My First Smart Contract](https://github.com/chun-eric/first-smart-contract)
-
 
  
 <br/>
@@ -85,7 +76,7 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 
 <br/>
 <h2>📺 YouTube Videos</h2>
- - [At The Airport - ESL English](https://youtu.be/AEjrgBnae7s)
+  - [At The Airport - ESL English](https://youtu.be/AEjrgBnae7s)
   - [Email Phishing - Security Awareness Training](https://youtu.be/AEjrgBnae7s)
   - [Misconfigured AWS S3 Buckets - Security Awareness Training](https://youtu.be/MFxIpmqld-w)
 
@@ -96,8 +87,6 @@ Content Strategist , Learning and Development, Instructional Design, E-Learning 
 [<img align="left" alt="Eric Chun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
-[youtube]: https://www.youtube.com/c/whatthehackdude
 [linkedin]: https://linkedin.com/in/eric-chun-b536711a/
 
 <br/>
