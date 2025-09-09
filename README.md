@@ -78,14 +78,14 @@ Content Strategist , Learning and Development, Instructional Designer & E-Learni
 <br/>
 <h2>📜 Certifications</h2>
 
-  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/24PFFD9EF64K)
+  - Google Cybersecurity Professional Certificate
   - NIST 800-37 Risk Management Framework for Systems and Organizations Introductory Course Version 2.0
   - Qualys Vulnerability Management Detection and Response
   - Microsoft Azure Fundamentals AZ-900
 
 <br/>
 <h2>📺 YouTube Videos</h2>
-
+ - [At The Airport - ESL English](https://youtu.be/AEjrgBnae7s)
   - [Email Phishing - Security Awareness Training](https://youtu.be/AEjrgBnae7s)
   - [Misconfigured AWS S3 Buckets - Security Awareness Training](https://youtu.be/MFxIpmqld-w)
 
