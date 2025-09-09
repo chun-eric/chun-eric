@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! 👋<br/><a href="https://www.linkedin.com/in/eric-chun-b536711a/">
   <br/>
- Developer, Content Strategist , Instructional Design & E-Learning, Product Development & Educator </h1>
+Content Strategist , Learning and Development, Instructional Designer & E-Learning and Web Developer </h1>
   
 <h2>👨‍💻 Email Design & Development Projects</h2>
 
